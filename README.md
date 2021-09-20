@@ -1,8 +1,8 @@
 # 일별 지하철 수요 예측🚝
 
 ## team member 
-### [Seo heesu]('https://github.com/Seoheesu1')🍒
-### [Park junhyuk]('https://github.com/Junhyuk93')🥑
+### [Seo heesu](https://github.com/Seoheesu1)🍒
+### [Park junhyuk](https://github.com/Junhyuk93)🥑
 ### [An junhan]('')🍻
 
 ---
